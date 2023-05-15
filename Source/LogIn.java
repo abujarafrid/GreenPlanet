@@ -26,7 +26,7 @@ public class LogIn extends JFrame implements ActionListener{
 		this.setVisible(true);
 		
 		JPanel panel = new JPanel();
-		panel.setBackground(Color.decode("#FFCF79"));
+		panel.setBackground(Color.decode("#9BC4BC"));
 		this.add(panel, BorderLayout.CENTER);
 		panel.setLayout(null);
 		
